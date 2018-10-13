@@ -1,4 +1,4 @@
-// My dumb solution
+// My solution
 
 // function fib(num) {
 //     if(num === 0) return 0;
@@ -15,7 +15,7 @@
 //     return fibSeq[index];
 // }
 
-// Real solution
+// Colts solution
 
 function fib(n) {
     if (n <= 2) return 1;

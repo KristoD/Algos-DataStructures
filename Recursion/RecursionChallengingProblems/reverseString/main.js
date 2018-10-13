@@ -1,4 +1,4 @@
-// My stupid solution
+// My solution
 
 // function reverse(str) {
 //     if(str.length <= 1) return 1;

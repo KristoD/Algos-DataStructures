@@ -1,4 +1,4 @@
-// My stupid solution
+// My solution
 
 // function productOfArray(arr) {
 //     if(arr.length === 0) return 0;
@@ -16,7 +16,7 @@
 //     return result;
 // }
 
-// Real Solution
+// Colts Solution
 
 function productOfArray(arr) {
     if(arr.length === 0) return 1;

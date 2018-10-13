@@ -1,4 +1,4 @@
-// My stupid solution
+// My solution
 
 // function recursiveRange(num) {
 //     if(num === 0) return 0;
@@ -13,7 +13,7 @@
 //     return result;
 // }
 
-// Real solution
+// Colts solution
 
 function recursiveRange(n) {
     if(n === 0) return 0;
